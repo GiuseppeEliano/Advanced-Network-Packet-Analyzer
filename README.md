@@ -2,7 +2,7 @@
 
 Advanced Network Packet Analyzer is a program destined to only monitorate your network in/out connection and show the respective process attributed, allowing filter all components. It's compatible with all Windows versions.
 
-![FAQ](https://assets-cdn.github.com/images/icons/emoji/unicode/1f531.png)
+![FAQ](https://assets-cdn.github.com/images/icons/emoji/unicode/1f531.png) #FAQ
 
 **I'm getting "Idle" value at Process list**
 This happens when your process is not available anymore and the program still showing yet, but the next refresh will remove it.
