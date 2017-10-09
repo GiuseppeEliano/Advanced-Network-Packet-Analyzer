@@ -21,7 +21,7 @@ Last update: 10/08/2017
 All contributions are welcome! Code, documentation or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
 
 ## :heavy_exclamation_mark: Requirements
-**1.: .NET Framework 3.5**
+**1.: .NET Framework 3.5**<br>
 **2.: Active network**
 
 ## :scroll: Credits
