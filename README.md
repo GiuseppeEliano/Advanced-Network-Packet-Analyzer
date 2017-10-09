@@ -13,18 +13,18 @@ We have plans to build up a Android version as soon as possible.
 **Why haven't auto refreshs?**
 We are aiming the people that haven't a good computer too, so, we disabled the automatic refresh for the best experience.
 
-![UPDATES](https://assets-cdn.github.com/images/icons/emoji/unicode/2705.png)
+## :white_check_mark: Updates
 There's not recently updates yet.
 Last update: 10/08/2017
 
-![How to contribute](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+## :octocat: How to contribute
 All contributions are welcome! Code, documentation or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
 
-![Requirements](https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png)
+## :heavy_exclamation_mark: Requirements
 **1.: .NET Framework 3.5**
 **2.: Active network**
 
-![Credits](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+## :scroll: Credits
 Specials thanks for MSDN community
 
 
