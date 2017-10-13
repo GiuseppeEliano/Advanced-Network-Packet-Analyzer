@@ -14,8 +14,9 @@ We have plans to build up a Android version as soon as possible.
 We are aiming the people that haven't a good computer too, so, we disabled the automatic refresh for the best experience.
 
 ## :white_check_mark: Updates
-There's not recently updates yet.
-Last update: 10/08/2017
+1.: Fixed a bug when unknown crash related to process appear.
+2.: Updated some labels text.
+Last update: 10/12/2017
 
 ## :octocat: How to contribute
 All contributions are welcome! Code, documentation or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
