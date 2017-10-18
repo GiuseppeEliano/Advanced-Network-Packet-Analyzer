@@ -30,7 +30,8 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 Last update: 10/18/2017
 
 ## :octocat: How to contribute
-All contributions are welcome! Code, documentation or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
+All contributions are welcome! Money, code, documentation or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!<br>
+BTC donate: 1HbzPTzaPvnqisPd1NvbiYyxh55V9U387S<br>
 
 ## :heavy_exclamation_mark: Requirements
 **1.: .NET Framework 3.5**<br>
