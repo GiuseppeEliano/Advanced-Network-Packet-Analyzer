@@ -38,7 +38,7 @@ BTC donate: 1HbzPTzaPvnqisPd1NvbiYyxh55V9U387S<br><br>
 **2.: Active network**
 
 ## :scroll: Credits
-Specials thanks for MSDN community
+Specials thanks for MSDN community and Kim Too Flex by the Framework.
 <br>
 <br>
 ## Disclaimer
