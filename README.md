@@ -15,8 +15,8 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 
 ## :white_check_mark: Updates
 ### Version 1.0<br>
-- First version release.<br
-<br>
+- First version release.<br>
+
 ### Version 1.1
 1.: Fixed a bug when unknown crash related to process appear.<br>
 2.: Updated some labels text.<br>
