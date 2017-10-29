@@ -27,7 +27,7 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 - Added CTRL+F key shortcut. (as new search)<br>
 - New sexy design was launched.<br>
 <br>
-Last update: 10/18/2017
+Last update: 10/29/2017
 
 ## :octocat: How to contribute
 All contributions are welcome! Money, code, documentation or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!<br><br>
