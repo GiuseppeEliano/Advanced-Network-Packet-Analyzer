@@ -13,6 +13,15 @@ We have plans to build up a Android version as soon as possible.
 **Why haven't auto refreshs?**<br>
 We are aiming the people that haven't a good computer too, so, we disabled the automatic refresh for the best experience.
 
+**How to kill process?**<br>
+Double right click on a row and the program will display automatically the process name, and will ask if you want to kill it.
+
+**My process is not being killed, what's the problem?**<br>
+Verify if you are running the program as administrator.
+
+**How to filter results?**<br>
+Hit CTRL+F key to filter: Local and Foreign Address, State, Process ID and Process name.
+
 ## :white_check_mark: Updates
 ### Version 1.0<br>
 - First version release.<br>
