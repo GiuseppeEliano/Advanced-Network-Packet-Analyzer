@@ -28,7 +28,7 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 - New sexy design was launched.<br>
 
 ### Version 1.3
-- Added kill process system (Double-click row)<br>
+- Added kill process system (Double right click row)<br>
 <br>
 
 Last update: 11/18/2017
