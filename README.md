@@ -18,8 +18,8 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 - First version release.<br>
 
 ### Version 1.1
-1.: Fixed a bug when unknown crash related to process appear.<br>
-2.: Updated some labels text.<br>
+- Fixed a bug when unknown crash related to process appear.<br>
+- Updated some labels text.<br>
 <br>
 ### Version 1.2
 - System updated.<br>
@@ -28,7 +28,7 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 - New sexy design was launched.<br>
 <br>
 ### Version 1.3
-- Added kill process system (Double-click row)
+- Added kill process system (Double-click row)<br>
 <br>
 Last update: 11/18/2017
 
