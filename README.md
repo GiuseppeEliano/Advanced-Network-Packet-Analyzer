@@ -21,15 +21,18 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 - Fixed a bug when unknown crash related to process appear.<br>
 - Updated some labels text.<br>
 <br>
+
 ### Version 1.2
 - System updated.<br>
 - Removed search button.<br>
 - Added CTRL+F key shortcut. (as new search)<br>
 - New sexy design was launched.<br>
 <br>
+
 ### Version 1.3
 - Added kill process system (Double-click row)<br>
 <br>
+
 Last update: 11/18/2017
 
 ## :octocat: How to contribute
