@@ -27,6 +27,9 @@ We are aiming the people that haven't a good computer too, so, we disabled the a
 - Added CTRL+F key shortcut. (as new search)<br>
 - New sexy design was launched.<br>
 <br>
+### Version 1.3
+- Added kill process system (Double-click row)
+<br>
 Last update: 11/18/2017
 
 ## :octocat: How to contribute
