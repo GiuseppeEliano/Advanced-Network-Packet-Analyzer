@@ -1,6 +1,9 @@
 # Advanced Network Packet Analyzer
 
 Advanced Network Packet Analyzer is a program destined to only monitorate your network in/out connection and show the respective process attributed, allowing filter all components. It's compatible with all Windows versions.
+<p align="center">
+  <img src="https://image.prntscr.com/image/qwJ_14Q2SKiW0P817ipU4w.png" title="Demonstration">
+</p>
 
 ## :trident: FAQ
 
