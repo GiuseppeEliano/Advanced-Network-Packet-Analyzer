@@ -8,9 +8,9 @@ Advanced Network Packet Analyzer is a program destined to only monitorate your n
 ## :trident: FAQ
 
 **I'm getting "Idle" value at Process list**<br>
-This happens when your process is not available anymore and the program still showing yet, but the next refresh will remove it.
+This happens when your process is not available anymore and the program still showing yet, just refresh to update.
 
-**There's any Android version?**<br>
+**Is there any Android version?**<br>
 We have plans to build up a Android version as soon as possible.
 
 **Why haven't auto refreshs?**<br>
